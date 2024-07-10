@@ -1,7 +1,7 @@
 {
     "name": "WMDD4950 dev",
     "id": "wmdd4950",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Additional installs for wmdd4950 class",
     "options": {
     }

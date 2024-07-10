@@ -1,22 +1,8 @@
 {
-    "name": "Hello, World!",
-    "id": "hello",
-    "version": "1.0.2",
-    "description": "A hello world feature",
+    "name": "WMDD4950 dev",
+    "id": "wmdd4950",
+    "version": "1.0",
+    "description": "Additional installs for wmdd4950 class",
     "options": {
-        "greeting": {
-            "type": "string",
-            "proposals": [
-                "hey",
-                "hello",
-                "hi",
-                "howdy"
-            ],
-            "default": "hey",
-            "description": "Select a pre-made greeting, or enter your own"
-        }
-    },
-    "installsAfter": [
-        "ghcr.io/devcontainers/features/common-utils"
-    ]
+    }
 }
